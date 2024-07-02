@@ -14,6 +14,7 @@
 		B3BF189C2C3377FD00234AB1 /* FairGroundsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BF189B2C3377FD00234AB1 /* FairGroundsTests.swift */; };
 		B3BF18A62C3377FD00234AB1 /* FairGroundsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BF18A52C3377FD00234AB1 /* FairGroundsUITests.swift */; };
 		B3BF18A82C3377FD00234AB1 /* FairGroundsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BF18A72C3377FD00234AB1 /* FairGroundsUITestsLaunchTests.swift */; };
+		B3BF18B52C337B2900234AB1 /* FairDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BF18B42C337B2900234AB1 /* FairDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B3BF18A12C3377FD00234AB1 /* FairGroundsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FairGroundsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3BF18A52C3377FD00234AB1 /* FairGroundsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairGroundsUITests.swift; sourceTree = "<group>"; };
 		B3BF18A72C3377FD00234AB1 /* FairGroundsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairGroundsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B3BF18B42C337B2900234AB1 /* FairDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FairDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B3BF188A2C3377FA00234AB1 /* FairGroundsApp.swift */,
 				B3BF188C2C3377FA00234AB1 /* ContentView.swift */,
+				B3BF18B42C337B2900234AB1 /* FairDetailView.swift */,
 				B3BF188E2C3377FC00234AB1 /* Assets.xcassets */,
 				B3BF18902C3377FC00234AB1 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3BF188D2C3377FA00234AB1 /* ContentView.swift in Sources */,
+				B3BF18B52C337B2900234AB1 /* FairDetailView.swift in Sources */,
 				B3BF188B2C3377FA00234AB1 /* FairGroundsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
